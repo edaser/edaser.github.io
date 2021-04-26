@@ -1,0 +1,14 @@
+{
+    "icons": [
+        {
+            "src": "/static/images/touch/icon.png",
+            "sizes": "145x145",
+            "type": "image/png"
+        }
+    ],
+    "name": "实训笔记",
+    "start_url": "/",
+    "description": "实训笔记",
+    "background_color": "#FFFFFF",
+    "lang": "cn"
+}
